@@ -133,7 +133,7 @@ require_once('dbconfig/config.php');
 
           <div class="row mb-5">
             <div class="col-md-7">
-              <img src="images/img_2.jpg" alt="Images" class="img-fluid">
+              <img src="images/person1.jpg" alt="Images" class="img-fluid">
             </div>
             <div class="col-md-4 ml-auto">
               <h3>Our Mission</h3>
@@ -144,7 +144,7 @@ require_once('dbconfig/config.php');
          
           <div class="row site-section">
             <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5">
-              <img src="images/person_1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
+              <img src="images/person1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
               <h2 class="text-black font-weight-light mb-4">Jean Smith</h2>
               <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ab quas facilis obcaecati non ea, est odit repellat distinctio incidunt, quia aliquam eveniet quod deleniti impedit sapiente atque tenetur porro?</p>
               <p>
@@ -154,7 +154,7 @@ require_once('dbconfig/config.php');
               </p>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5">
-              <img src="images/person_2.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
+              <img src="images/person1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
               <h2 class="text-black font-weight-light mb-4">Claire Smith</h2>
               <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ab quas facilis obcaecati non ea, est odit repellat distinctio incidunt, quia aliquam eveniet quod deleniti impedit sapiente atque tenetur porro?</p>
               <p>
@@ -164,7 +164,7 @@ require_once('dbconfig/config.php');
               </p>
             </div>
             <div class="col-md-6 col-lg-6 col-xl-4 text-center mb-5">
-              <img src="images/person_4.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
+              <img src="images/person1.jpg" alt="Image" class="img-fluid w-50 rounded-circle mb-4">
               <h2 class="text-black font-weight-light mb-4">John Smith</h2>
               <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ab quas facilis obcaecati non ea, est odit repellat distinctio incidunt, quia aliquam eveniet quod deleniti impedit sapiente atque tenetur porro?</p>
               <p>
